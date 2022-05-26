@@ -2,8 +2,8 @@
 用药助手 unlock vip
 
 QX：
-^https:\/\/newdrugs\.dxy\.cn\/app\/user\/(init|pro\/stat) url script-response-body MedicationAssistant.js
-^https:\/\/i\.dxy\.cn\/snsapi\/username\/* url script-response-body MedicationAssistant.js
+^https:\/\/newdrugs\.dxy\.cn\/app\/user\/(init|pro\/stat) url script-response-body https://github.com/gitLopp/quanjd/blob/main/MedicationAssistant.js
+^https:\/\/i\.dxy\.cn\/snsapi\/username\/* url script-response-body https://github.com/gitLopp/quanjd/blob/main/MedicationAssistant.js
 
 *.dxy.cn
 
